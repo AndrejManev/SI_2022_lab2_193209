@@ -11,3 +11,6 @@ Every Statement - Доволни се 3 случаи за да се помина
 
 https://1drv.ms/x/s!AseZ5q-KN7WthF7LrxmZOPuwM6Zm?e=aUj0N9
 
+Every Branch - Се користат истите 3 случаи како кај Еvery Statement критериумот.
+
+https://1drv.ms/x/s!AseZ5q-KN7WthGgLUGNOjeXFCOLS?e=lAAj4b
